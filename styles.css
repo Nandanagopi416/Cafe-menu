@@ -13,6 +13,8 @@ body{
     font-family: sans-serif;
     padding: 20px;
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+    margin-left: auto;
+    margin-right: auto;
 }
 .item p{
     display: inline-block;
@@ -45,3 +47,10 @@ hr{
     border-color: brown;
     height: 4px;
 }
+.bottom-line{
+    padding-top: 20px;
+}
+a{
+    color: blue;
+}
+a:visited{ color: grey; }
