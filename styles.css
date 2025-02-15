@@ -36,3 +36,8 @@ h2{
 .established{
     font-style: italic;
 }
+hr{
+    background-color: brown;
+    border-color: brown;
+    height: 4px;
+}
