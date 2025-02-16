@@ -35,6 +35,8 @@ h1,h2{
 }
 h1{
     font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
 }
 h2{
     font-size: 30px;
@@ -53,4 +55,12 @@ hr{
 a{
     color: blue;
 }
-a:visited{ color: grey; }
+a:visited { 
+    color: black; 
+}
+a:active {
+    color: black;
+}
+a:hover{
+    color: brown;
+}
