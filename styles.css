@@ -49,6 +49,10 @@ hr{
     border-color: brown;
     height: 4px;
 }
+img{
+    display: block;
+    margin-left: auto;
+}
 .bottom-line{
     padding-top: 20px;
 }
