@@ -51,7 +51,9 @@ hr{
 }
 img{
     display: block;
+    margin-right: auto;
     margin-left: auto;
+    margin-top: -25px;
 }
 .bottom-line{
     padding-top: 20px;
